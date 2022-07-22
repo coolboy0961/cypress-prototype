@@ -11,3 +11,8 @@ cypress のGUIを開く。テストケースの単独実行ができる。
 ```
 npm run open
 ```
+
+レポートの出力場所
+```
+cypress/report/mochawesome.html
+```
