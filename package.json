@@ -1,0 +1,21 @@
+{
+  "name": "cypress-prototype",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolboy0961/cypress-prototype.git"
+  },
+  "author": "Jiadong Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolboy0961/cypress-prototype/issues"
+  },
+  "homepage": "https://github.com/coolboy0961/cypress-prototype#readme",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
